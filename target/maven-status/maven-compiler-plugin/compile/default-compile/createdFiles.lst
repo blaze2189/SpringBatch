@@ -1,0 +1,13 @@
+com\blaze\batch\job\JobConfiguration.class
+com\blaze\batch\service\impl\ExchangeInformationWriterImpl.class
+com\blaze\batch\entity\Fixer.class
+com\blaze\batch\entity\LocalFix.class
+com\blaze\batch\service\ExchangeInformationReader.class
+com\blaze\batch\listener\ProtocolListener.class
+com\blaze\batch\service\impl\ExchangeInformationProcessImpl.class
+com\blaze\batch\service\ExchangeInformationProcess.class
+com\blaze\batch\service\ExchangeInformationWriter.class
+com\blaze\batch\service\impl\ExchangeInformationReaderImpl.class
+com\blaze\batch\service\RESTExchange.class
+com\blaze\batch\service\impl\RESTExchangeImpl.class
+com\blaze\batch\App.class
